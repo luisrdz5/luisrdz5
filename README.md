@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Luis Antonio rodriguez Garcia 👋
 
-<!--
-**luisrdz5/luisrdz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Site Reliability Engineer and Full Stack developer in Javascript, PHP and Python.
 
-Here are some ideas to get you started:
+I have broad knowledge in Linux based security systems with over 20 years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outgoing, determined and goal oriented, excellent for teamwork and collaborative work.
+
+Reach out via:
+
+  - 🏡 homepage: https://luisrodriguezgarcia.com
+  - 🐦 twitter: https://twitter.com/luisrdz5
+  - 🕴 linkedin: https://www.linkedin.com/in/luisrdz5/
+  - 😃 instagram: https://facebook.com/LuisAntRodriguezGarcia
+
+Thank you, and have a nice day :sparkles:!
