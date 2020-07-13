@@ -11,6 +11,6 @@ Reach out via:
   - 🏡 homepage: https://luisrodriguezgarcia.com
   - 🐦 twitter: https://twitter.com/luisrdz5
   - 🕴 linkedin: https://www.linkedin.com/in/luisrdz5/
-  - 😃 instagram: https://facebook.com/LuisAntRodriguezGarcia
+  - 😃 facebook: https://facebook.com/LuisAntRodriguezGarcia
 
 Thank you, and have a nice day :sparkles:!
